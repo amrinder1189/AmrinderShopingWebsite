@@ -1,0 +1,16 @@
+.buttonscontainer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.sign-in-container {
+    display: flex;
+    flex-direction: column;
+    width: 380px;
+  
+    h3 {
+      margin: 10px 0;
+    }
+
+}
+  

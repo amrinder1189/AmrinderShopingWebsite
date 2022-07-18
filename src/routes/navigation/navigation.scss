@@ -1,0 +1,45 @@
+.navigation {
+    height: 80px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 25px;
+    // border-bottom: 1px solid blue;
+
+    overflow-y: hidden;
+  
+    // .logo-container {
+    //   height: 100%;
+    //   width: 70px;
+    //   padding: 25px;
+    // }
+  
+    .nav-links-container {
+      width: 50%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+  
+      .nav-link {
+        padding: 10px 15px;
+        cursor: pointer;
+      }
+    }
+  }
+
+.logoimagee {
+  // border: 1px solid red;
+ 
+  width: 180px;
+  height: 90px;
+  // position: absolute;
+  // top: -20px;
+  
+ }
+
+.logo-container {
+  // border:1px solid blue;
+  // position: relative;
+  // overflow: hidden;
+}
